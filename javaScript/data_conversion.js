@@ -21,7 +21,6 @@ console.log(typeof Invaluestr)
 console.log(Invaluestr)
 
 
-
 //num to boolean
 let bool = 1
 let isboolean = Boolean(bool)
