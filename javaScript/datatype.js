@@ -25,9 +25,9 @@ console.log(typeof data_undef)
 
 
 //null datatype 
-let null_data = "";
+let null_data = null;
 console.log(null_data)
-console.log(typeof null_data)
+console.log(typeof null_data) //its null but return object..
 
 console.log("Non primitive data")
 //array , object
