@@ -26,3 +26,10 @@ let bool = 1
 let isboolean = Boolean(bool)
 console.log(isboolean) //dispaly
 console.log(typeof isboolean) // check datatype
+
+//boolean to num
+
+let bool_num = true;
+let isnum = Number(bool_num);
+console.log(isnum);
+console.log(typeof isnum)
