@@ -13,3 +13,5 @@ console.log(let_var);
 var var_var = "hello shavez";
 var_var = "shavezhello";
 console.log(var_var);
+//note : Don't used var 
+
