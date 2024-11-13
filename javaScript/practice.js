@@ -34,3 +34,25 @@ if(num % 2 == 0){
 else{
     console.log("The given num is odd")
 }
+
+
+//multiple statement check
+let score = 23;
+if(score >= 90 && score <= 100){
+    console.log("Very good you passing grade A+");
+}
+else if(score >= 80 && score <= 89){
+    console.log("Very good you passing grade A");
+}
+else if(score >= 70 && score <= 79){
+    console.log("Very good you passing grade B");
+}
+else if(score >= 60 && score <= 69){
+    console.log("Very good you passing grade C");
+}
+else if(score >= 50 && score <= 59){
+    console.log("Very good you passing grade D");
+}
+else{
+    console.log("You are failed try to next time");
+}
