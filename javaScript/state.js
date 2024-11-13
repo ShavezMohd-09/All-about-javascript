@@ -31,3 +31,17 @@ if(marks2 >= 45){
 }else{
     console.log("yor are failed in this session...");
 }
+
+// if else-if statement (multiple condition )
+let num = 13;
+if(num == 20){
+    console.log("The num is equal to num");
+}else if(num < 14){
+    console.log("The num is lessthan 14");
+}
+else if(num <= 0){
+    console.log("The given num is a negative number");
+}
+else{
+    console.log("No condition is match");
+}
