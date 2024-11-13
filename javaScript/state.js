@@ -36,8 +36,8 @@ if(marks2 >= 45){
 let num = 13;
 if(num == 20){
     console.log("The num is equal to num");
-}else if(num < 14){
-    console.log("The num is lessthan 14");
+}else if(num < 20){
+    console.log("The num is lessthan 20");
 }
 else if(num <= 0){
     console.log("The given num is a negative number");
