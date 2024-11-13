@@ -21,3 +21,16 @@ const profile = {
     bio : " Being alone not a voring..."
 }
 console.log(profile);
+
+
+
+//question if else statement
+
+// find the no id odd or even
+let num = 13;
+if(num % 2 == 0){
+    console.log("The given num is even")
+}
+else{
+    console.log("The given num is odd")
+}
